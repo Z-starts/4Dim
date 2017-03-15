@@ -7,5 +7,5 @@
 * 前端
 * spark
 * python
-* 其他
+* [其他](qi-ta.md)
 
